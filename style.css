@@ -1,0 +1,29 @@
+* {
+    /* margin: 50 auto; */
+}
+
+.fon {
+    border: 2px solid black;
+    margin: 50px auto;
+    background-color: white (17, 150, 57);
+    text-align: center;
+    width: 1400px;
+    height: 590px;
+      
+}
+
+.text {
+    border-width: 1px;
+
+}
+
+.line {
+    box-sizing: border-box;
+    border: 2px solid orangered;
+    background-color: orangered;
+    padding: 163px, 668px, 425px;
+    width: 64px;
+    height: 2px;
+    text-align: center;
+
+}
